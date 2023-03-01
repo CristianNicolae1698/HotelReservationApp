@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vWxZ3mKr5xAqj+h05UD6fxVCVA2cVWwYWWishXFwPtv1T3hSYdQPLS4puVp8zvMD/jjGiG6W7YDNDqTVc59/Mw==",
+  "dgSpecHash": "cxpK8k7NEn42Shv9bQd45DYOVQmglYk21JSJQJPhLbPXuXRvAPU0LzKuxWB5BpBjx45wy23LKuQZZN66Ta2vnA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\crist\\Desktop\\HotelApp_Repository\\HotelAppLibrary\\HotelAppLibrary.csproj",
+  "projectFilePath": "C:\\Users\\crist\\Desktop\\HotelReservationAppRepo\\HotelReservationApp\\HotelAppLibrary\\HotelAppLibrary.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\crist\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
     "C:\\Users\\crist\\.nuget\\packages\\microsoft.azure.management.kubernetesconfiguration\\2.1.0\\microsoft.azure.management.kubernetesconfiguration.2.1.0.nupkg.sha512",

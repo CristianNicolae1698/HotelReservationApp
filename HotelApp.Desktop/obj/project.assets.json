@@ -6615,11 +6615,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\crist\\Desktop\\HotelApp_Repository\\HotelApp.Desktop\\HotelApp.Desktop.csproj",
+      "projectUniqueName": "C:\\Users\\crist\\Desktop\\HotelReservationAppRepo\\HotelReservationApp\\HotelApp.Desktop\\HotelApp.Desktop.csproj",
       "projectName": "HotelApp.Desktop",
-      "projectPath": "C:\\Users\\crist\\Desktop\\HotelApp_Repository\\HotelApp.Desktop\\HotelApp.Desktop.csproj",
+      "projectPath": "C:\\Users\\crist\\Desktop\\HotelReservationAppRepo\\HotelReservationApp\\HotelApp.Desktop\\HotelApp.Desktop.csproj",
       "packagesPath": "C:\\Users\\crist\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\crist\\Desktop\\HotelApp_Repository\\HotelApp.Desktop\\obj\\",
+      "outputPath": "C:\\Users\\crist\\Desktop\\HotelReservationAppRepo\\HotelReservationApp\\HotelApp.Desktop\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -6641,8 +6641,8 @@
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "projectReferences": {
-            "C:\\Users\\crist\\Desktop\\HotelApp_Repository\\HotelAppLibrary\\HotelAppLibrary.csproj": {
-              "projectPath": "C:\\Users\\crist\\Desktop\\HotelApp_Repository\\HotelAppLibrary\\HotelAppLibrary.csproj"
+            "C:\\Users\\crist\\Desktop\\HotelReservationAppRepo\\HotelReservationApp\\HotelAppLibrary\\HotelAppLibrary.csproj": {
+              "projectPath": "C:\\Users\\crist\\Desktop\\HotelReservationAppRepo\\HotelReservationApp\\HotelAppLibrary\\HotelAppLibrary.csproj"
             }
           }
         }

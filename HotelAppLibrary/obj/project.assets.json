@@ -6106,11 +6106,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\crist\\Desktop\\HotelApp_Repository\\HotelAppLibrary\\HotelAppLibrary.csproj",
+      "projectUniqueName": "C:\\Users\\crist\\Desktop\\HotelReservationAppRepo\\HotelReservationApp\\HotelAppLibrary\\HotelAppLibrary.csproj",
       "projectName": "HotelAppLibrary",
-      "projectPath": "C:\\Users\\crist\\Desktop\\HotelApp_Repository\\HotelAppLibrary\\HotelAppLibrary.csproj",
+      "projectPath": "C:\\Users\\crist\\Desktop\\HotelReservationAppRepo\\HotelReservationApp\\HotelAppLibrary\\HotelAppLibrary.csproj",
       "packagesPath": "C:\\Users\\crist\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\crist\\Desktop\\HotelApp_Repository\\HotelAppLibrary\\obj\\",
+      "outputPath": "C:\\Users\\crist\\Desktop\\HotelReservationAppRepo\\HotelReservationApp\\HotelAppLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

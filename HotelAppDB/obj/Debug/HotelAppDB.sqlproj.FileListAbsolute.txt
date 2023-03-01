@@ -10,3 +10,13 @@ C:\Users\crist\Desktop\HotelApp_Repository\HotelAppDB\bin\Debug\HotelAppDB.pdb
 C:\Users\crist\Desktop\HotelApp_Repository\HotelAppDB\obj\Debug\HotelAppDB.sqlproj.AssemblyReference.cache
 C:\Users\crist\Desktop\HotelApp_Repository\HotelAppDB\obj\Debug\HotelAppDB.dll
 C:\Users\crist\Desktop\HotelApp_Repository\HotelAppDB\obj\Debug\HotelAppDB.pdb
+C:\Users\crist\Desktop\HotelReservationAppRepo\HotelReservationApp\HotelAppDB\bin\Debug\HotelAppDB.dacpac
+C:\Users\crist\Desktop\HotelReservationAppRepo\HotelReservationApp\HotelAppDB\bin\Debug\HotelAppDB.dll
+C:\Users\crist\Desktop\HotelReservationAppRepo\HotelReservationApp\HotelAppDB\bin\Debug\HotelAppDB.pdb
+C:\Users\crist\Desktop\HotelReservationAppRepo\HotelReservationApp\HotelAppDB\obj\Debug\HotelAppDB.sqlproj.AssemblyReference.cache
+C:\Users\crist\Desktop\HotelReservationAppRepo\HotelReservationApp\HotelAppDB\obj\Debug\Model.xml
+C:\Users\crist\Desktop\HotelReservationAppRepo\HotelReservationApp\HotelAppDB\obj\Debug\refactor.xml
+C:\Users\crist\Desktop\HotelReservationAppRepo\HotelReservationApp\HotelAppDB\obj\Debug\postdeploy.sql
+C:\Users\crist\Desktop\HotelReservationAppRepo\HotelReservationApp\HotelAppDB\obj\Debug\predeploy.sql
+C:\Users\crist\Desktop\HotelReservationAppRepo\HotelReservationApp\HotelAppDB\obj\Debug\HotelAppDB.dll
+C:\Users\crist\Desktop\HotelReservationAppRepo\HotelReservationApp\HotelAppDB\obj\Debug\HotelAppDB.pdb
